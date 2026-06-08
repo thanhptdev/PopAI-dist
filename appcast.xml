@@ -3,18 +3,18 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>PopAI Updates</title>
-    <link>https://raw.githubusercontent.com/thanhptdev/PopAI/main/dist/appcast.xml</link>
+    <link>https://raw.githubusercontent.com/thanhptdev/PopAI-dist/main/appcast.xml</link>
     <description>PopAI changelog</description>
     <language>en</language>
     <item>
       <title>PopAI 0.4.0</title>
-      <pubDate>Mon, 08 Jun 2026 04:51:37 +0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 04:59:38 +0000</pubDate>
       <sparkle:version>4</sparkle:version>
       <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
       <enclosure
-        url="https://github.com/thanhptdev/PopAI/releases/download/v0.4.0/PopAI.zip"
-        sparkle:edSignature="wcbHYsfjJw2SNA+tXQH+HPX8UkClDL5UvJGglz2Ki3a6kPkPkWS1MAEi6uhzLaOjp/giwHcfsbU3yUyHN7voCg=="
-        length="4700884"
+        url="https://github.com/thanhptdev/PopAI-dist/releases/download/v0.4.0/PopAI.zip"
+        sparkle:edSignature="Qe+xmAJopO5VnLQt1ncrrw2aLoOC3AqEQiryxklWxvaqi5uFbzKUmr0KLMpUsitpN/28q5WWY2uB0TKV5hXuBw=="
+        length="4700873"
         type="application/octet-stream"
       />
     </item>
