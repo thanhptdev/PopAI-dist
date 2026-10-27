@@ -7,14 +7,14 @@
     <description>PopAI changelog</description>
     <language>en</language>
     <item>
-      <title>PopAI 0.6.0</title>
-      <pubDate>Wed, 14 Oct 2026 09:38:22 +0000</pubDate>
-      <sparkle:version>14</sparkle:version>
-      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <title>PopAI 0.6.1</title>
+      <pubDate>Tue, 27 Oct 2026 08:59:10 +0000</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
       <enclosure
-        url="https://github.com/thanhptdev/PopAI-dist/releases/download/v0.6.0/PopAI.zip"
-        sparkle:edSignature="iHYyBKaGJR4acRRVUjoAGW5WQr6PbxsS5oKmgPJ2hzmeie1M+OvbmOimR2wvzU32mdLzp2j1yHhv3UBjIKU8Cw=="
-        length="5311410"
+        url="https://github.com/thanhptdev/PopAI-dist/releases/download/v0.6.1/PopAI.zip"
+        sparkle:edSignature="Na93KjWAqz64TPI8SfCLgIEVhjgpyCJTyutOVZ1xlbrGxkUtebE1c+uTC1VUWoZ4OnyZFtKw8Tp4cGuOfZdHBQ=="
+        length="5328567"
         type="application/octet-stream"
       />
     </item>
